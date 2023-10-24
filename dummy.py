@@ -1,0 +1,1 @@
+# Write a program that reads in a txt file and returns the highest  word count.

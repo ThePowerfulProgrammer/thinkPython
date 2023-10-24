@@ -1,0 +1,3 @@
+opts: opts, post, pots, spot, stop, tops
+listen: listen, silent, enlist, listen
+banana: banana, anaban, naabna

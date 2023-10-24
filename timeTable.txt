@@ -1,0 +1,21 @@
+Daily Timetable:
+
+Monday to Friday:
+-----------------
+7:00 AM - 8:00 AM: Gym
+8:00 AM - 9:00 AM: Breakfast and Getting Ready
+9:00 AM - 9:45 AM: Numerical Analysis
+9:45 AM - 10:30 AM: Statistics for Business and Economics
+10:30 AM - 11:15 AM: Computer theory
+11:15 AM - 12:00 PM: C++ Qt
+[ Lunch Break: 12:00 PM - 1:00 PM ]
+1:00 PM - 1:45 PM: Computer Organization
+1:45 PM - 2:30 PM: C++
+2:30 PM - 3:15 PM: Systems Analysis and Design in a Changing World
+3:15 PM - 4:00 PM: Systems Analysis and Systems Design
+4:00 PM - 4:45 PM: Database Management
+4:45 PM - 5:30 PM: Computer networks
+5:30 PM - 6:30 PM: Python Practice
+6:30 PM - 7:30 PM: LeetCode Practice
+
+Please note that this is just a sample timetable, and you can adjust it based on your energy levels, preferences, and study habits. Also, consider taking short breaks between study sessions to stay refreshed and focused. If you have any other commitments or activities, make sure to incorporate them into your daily schedule as well. Consistency and balance are key to maintaining a successful study routine.
