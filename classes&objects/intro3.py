@@ -38,6 +38,10 @@ class Time():
         self.hour = hour
         self.minute = minute
         self.second = second
+        
+    # the repr of out class object in the termial
+    def __repr__(self) -> str:
+        return object.__repr__(self) + " " +  f"{self.hour}:{self.minute}:{self.second}"
     
     
     # when we print an instance of a class, we need a string representation
@@ -139,4 +143,5 @@ if __name__ == "__main__":
     print(type(total))
     print(total)
     
-    print(print_attributes(total))
+    
+    print(print_attributes(start))

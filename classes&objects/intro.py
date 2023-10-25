@@ -41,6 +41,7 @@ if __name__ == "__main__":
     point1.y = 4.0
 
     print(f"({point1.x, point1.y})")
+    print(point1.x,point1.y)
 
 
 

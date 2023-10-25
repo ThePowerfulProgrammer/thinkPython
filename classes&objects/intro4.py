@@ -1,5 +1,5 @@
 class Card():
-    # Defined outside any function, means it is accessible my all class instances
+    # Defined outside any function, means it is accessible my all class instances --> STATIC Members
     # Shared among all instances of the class and are accessed using the class name rather than instance references
     # Called class attributes
     suit_names = ['Clubs', 'Diamonds', 'Hearts', 'Spades']

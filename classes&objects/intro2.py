@@ -17,8 +17,10 @@ def print_time(time: Time) -> str :
     print(f"{time.hour}:{round(time.minute,2)}:{round(time.second,2)}")
     return ""
 
+# we can use tuples to compare each indivual entry.attr
 def is_after(t1: Time, t2: Time) -> bool:
     return (t1.hour, t1.minute, t1.second) > (t2.hour, t2.minute, t2.second) # Thats right we can use tuples to unpack a class
+
 
 print(print_time(time))
 
@@ -118,7 +120,7 @@ def add_timeV2(t1, t2):
     seconds = time_to_int(t1) + time_to_int(t2)
     return int_to_time(seconds)
         
-# invariants
+# invariants : Conditions that must hold
 def valid_time(time):
     if time.hour < 0 or time.minute < 0 or time.second < 0:
         return False

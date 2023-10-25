@@ -12,14 +12,14 @@ class Rectangle(object):
 box = Rectangle()
 box.width = 100.0
 box.height = 200.0
-box.corner = Point()
+box.corner = Point() # Using another previously defined class as an attribute
 box.corner.x = 0.0
 box.corner.y = 0.0
 
     
 # Instances as Return Values
 def find_center(rect):
-    p = Point
+    p = Point()
     p.x = rect.corner.x + rect.width/2.0
     p.y = rect.corner.y + rect.height/2.0
     return p
@@ -130,3 +130,5 @@ try:
 except AttributeError as e:
     print(type(e))
     print("Error ", str(e))
+    
+      
